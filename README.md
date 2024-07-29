@@ -1,0 +1,1 @@
+黑苹果sonoma14.5正式版驱动博通BCM943602CS WiFi，参考config.plist
